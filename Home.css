@@ -1,0 +1,43 @@
+body
+{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+h1
+{
+  color: blue;
+  font-size: 50px;
+}
+h3
+{
+  color: green;
+}
+.nav
+{
+  overflow: hidden;
+  background-color: #808080;
+}
+.nav a
+{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.active
+{
+  background-color: #4CAF50;
+  color: white;
+}
+.nav a:hover
+{
+  background-color: #3090C7;
+  color: white;
+}
+img
+{
+  float: left;
+  padding-right: 10px;
+}
